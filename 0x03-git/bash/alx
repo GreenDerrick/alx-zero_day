@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-ALX Scholl is so cool!
-echo /bin/bash >> alx
-echo echo /bin/bash
+ALX School is so cool!
 !#/bin/bash
-=======
-#!/bin/bash
-ALX School
->>>>>>> update_script
